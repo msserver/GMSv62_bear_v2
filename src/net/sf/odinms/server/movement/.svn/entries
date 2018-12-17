@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/server/movement"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="ChairMovement.java"
+   text-time="2009-02-13T14:01:59.859375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="877c71e3b7b0ce6f4ae6dc330519f963"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.484375Z"/>
+<entry
+   committed-rev="82"
+   name="RelativeLifeMovement.java"
+   text-time="2009-02-13T14:01:59.906250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c8f89ca026911b5b50fdb4493eb2d977"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.531250Z"/>
+<entry
+   committed-rev="82"
+   name="AbsoluteLifeMovement.java"
+   text-time="2009-02-13T14:01:59.953125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8eef3b803352e6f23e58f1f8180fa7be"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.609375Z"/>
+<entry
+   committed-rev="82"
+   name="TeleportMovement.java"
+   text-time="2009-02-13T14:02:00.015625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="bc5bf8e5331a8c022000d7109b1a4553"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.640625Z"/>
+<entry
+   committed-rev="82"
+   name="LifeMovement.java"
+   text-time="2009-02-13T14:02:00.109375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="05f0ad419262b4842619e88709730aef"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.671875Z"/>
+<entry
+   committed-rev="82"
+   name="ChangeEquipSpecialAwesome.java"
+   text-time="2009-02-13T14:02:00.156250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b5564bd45636bbef0564ed250f3b606f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.687500Z"/>
+<entry
+   committed-rev="82"
+   name="AbstractLifeMovement.java"
+   text-time="2009-02-13T14:02:00.234375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c6ee991352710b7fa2f85858ab8488e3"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.734375Z"/>
+<entry
+   committed-rev="82"
+   name="JumpDownMovement.java"
+   text-time="2009-02-13T14:02:00.281250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="58340632390d1052a4c5c2a160c341e1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.765625Z"/>
+<entry
+   committed-rev="82"
+   name="LifeMovementFragment.java"
+   text-time="2009-02-13T14:02:00.328125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5a1a3eb14f4af19a4f18c352687e2cc3"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.828125Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/client/status"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="MonsterStatusEffect.java"
+   text-time="2009-02-13T14:02:10.828125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="dfdf8af8dc227035e6eef2be3be7996a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:10.734375Z"/>
+<entry
+   committed-rev="82"
+   name="MonsterStatus.java"
+   text-time="2009-02-13T14:02:10.921875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="acb417805d5ea0bee92aa25b2a23a035"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:10.765625Z"/>
+</wc-entries>

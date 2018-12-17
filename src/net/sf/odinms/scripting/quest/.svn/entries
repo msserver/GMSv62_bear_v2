@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/scripting/quest"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="QuestScriptManager.java"
+   text-time="2009-02-13T14:01:38.515625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="09d122cbeba5cc4782d50aa7f0afdec7"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:38.375000Z"/>
+<entry
+   committed-rev="82"
+   name="QuestScript.java"
+   text-time="2009-02-13T14:01:38.625000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="261254e8e1dfeec2d64f15eafbb6b248"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:38.421875Z"/>
+<entry
+   committed-rev="82"
+   name="QuestActionManager.java"
+   text-time="2009-02-13T14:01:38.687500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="fc0425e9de5ce2154a442abe03497f1b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:38.468750Z"/>
+</wc-entries>

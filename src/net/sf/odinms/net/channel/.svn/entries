@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/channel"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="ChannelServer.java"
+   text-time="2009-02-13T14:01:53.937500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9eaaa8a0f19b011321ad73bea5aaf546"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:44.218750Z"/>
+<entry
+   committed-rev="82"
+   name="PlayerStorage.java"
+   text-time="2009-02-13T14:01:53.984375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="270ad96c5014c60ea2d25a61c5f2c7ec"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:44.250000Z"/>
+<entry
+   committed-rev="82"
+   name="ChannelServerMBean.java"
+   text-time="2009-02-13T14:01:54.031250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1ae9e7a01557ab6e512055f18f0e5058"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:44.421875Z"/>
+<entry
+   committed-rev="82"
+   name="ChannelWorldInterfaceImpl.java"
+   text-time="2009-02-13T14:01:54.093750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="99913ce6a548f720b28583e37e7ff7df"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:44.531250Z"/>
+<entry
+   name="pvp"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="IPlayerStorage.java"
+   text-time="2009-02-13T14:01:54.125000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="e34e5e8e0bd8939203f9d60ee4472cbb"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:44.734375Z"/>
+<entry
+   name="remote"
+   kind="dir"/>
+<entry
+   name="handler"
+   kind="dir"/>
+</wc-entries>

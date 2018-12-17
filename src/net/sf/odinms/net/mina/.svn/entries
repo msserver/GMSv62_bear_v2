@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/mina"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="MapleCodecFactory.java"
+   text-time="2009-02-13T14:01:40.156250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3abb17c71f67ffc631d5b478bf02ddf1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.031250Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePacketEncoder.java"
+   text-time="2009-02-13T14:01:40.265625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="fc8018b9ae01f4eb50d39b79ed208d02"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.078125Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePacketDecoder.java"
+   text-time="2009-02-13T14:01:40.390625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="7da216f8604102dd8d838d3cc9b2a343"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.109375Z"/>
+</wc-entries>

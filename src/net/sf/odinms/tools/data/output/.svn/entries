@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/tools/data/output"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="ByteOutputStream.java"
+   text-time="2009-02-13T14:01:34.359375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1ebb2e0e10dd8af0ddda2c893b45b145"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:33.968750Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePacketLittleEndianWriter.java"
+   text-time="2009-02-13T14:01:34.421875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="98ba9f70e4fad61e22543a6f39417cd4"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:34.015625Z"/>
+<entry
+   committed-rev="82"
+   name="BAOSByteOutputStream.java"
+   text-time="2009-02-13T14:01:34.515625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="7f5bc22f0e8b607a11c6bdec23b552e8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:34.109375Z"/>
+<entry
+   committed-rev="82"
+   name="GenericLittleEndianWriter.java"
+   text-time="2009-02-13T14:01:34.609375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5b8b086e26d406f70c6ef12b23e544f4"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:34.171875Z"/>
+<entry
+   committed-rev="82"
+   name="ByteBufferLittleEndianWriter.java"
+   text-time="2009-02-13T14:01:34.671875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c66cbdb2d064bb720c5de6698add2695"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:34.218750Z"/>
+<entry
+   committed-rev="82"
+   name="LittleEndianWriter.java"
+   text-time="2009-02-13T14:01:34.718750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="94e1bead90b52e6bc4915a665a8d981d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:34.265625Z"/>
+<entry
+   committed-rev="82"
+   name="ByteBufferOutputstream.java"
+   text-time="2009-02-13T14:01:34.796875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="fd98585ad1e15f1a9b2a4a5dc180c782"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:34.296875Z"/>
+</wc-entries>

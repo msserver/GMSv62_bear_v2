@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/server/fourthjobquests"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="FourthJobQuestsPortalHandler.java"
+   text-time="2009-02-13T14:02:04.906250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2903d3156641ef26fbbca37672466b1c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:04.859375Z"/>
+</wc-entries>

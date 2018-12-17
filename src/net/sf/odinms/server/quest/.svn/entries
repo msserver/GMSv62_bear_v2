@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/server/quest"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="MapleQuest.java"
+   text-time="2009-02-13T14:02:03.937500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1704e0865cb8842b0accf39b4e824949"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.531250Z"/>
+<entry
+   committed-rev="82"
+   name="MapleQuestActionType.java"
+   text-time="2009-02-13T14:02:04.218750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="95819d4413cb67c506a42f9324bce7c3"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.578125Z"/>
+<entry
+   committed-rev="82"
+   name="MapleQuestRequirement.java"
+   text-time="2009-02-13T14:02:04.281250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a560b305c63b48b6f38acd74d0f582d1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.640625Z"/>
+<entry
+   committed-rev="82"
+   name="MapleQuestRequirementType.java"
+   text-time="2009-02-13T14:02:04.359375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="ddd368a2e1c49e1e02921ad242d5061e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.687500Z"/>
+<entry
+   committed-rev="82"
+   name="MapleCustomQuestData.java"
+   text-time="2009-02-13T14:02:04.406250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9bd5671bce489828d25b483604bbbbbb"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.734375Z"/>
+<entry
+   committed-rev="82"
+   name="MapleCustomQuest.java"
+   text-time="2009-02-13T14:02:04.468750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8bc60f453f8843a31796e1b15e444f77"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.765625Z"/>
+<entry
+   committed-rev="82"
+   name="MapleQuestAction.java"
+   text-time="2009-02-13T14:02:04.531250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2ad4722fa46e5d709d67a8d187ef7710"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.828125Z"/>
+</wc-entries>

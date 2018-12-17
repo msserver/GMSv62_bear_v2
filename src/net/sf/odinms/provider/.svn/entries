@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/provider"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="MapleDataDirectoryEntry.java"
+   text-time="2009-02-13T14:02:09.937500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3b1094713186e0a8d8d54195232abf4a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:07.671875Z"/>
+<entry
+   name="wz"
+   kind="dir"/>
+<entry
+   name="xmlwz"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="MapleDataProvider.java"
+   text-time="2009-02-13T14:02:09.984375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="76df7c70c171c9cfaa08617cdfd6c931"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:09.671875Z"/>
+<entry
+   committed-rev="82"
+   name="MapleDataEntity.java"
+   text-time="2009-02-13T14:02:10.031250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="cc2ee0fa62c4180916b3f7fe89cc26df"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:09.703125Z"/>
+<entry
+   committed-rev="82"
+   name="MapleDataTool.java"
+   text-time="2009-02-13T14:02:10.109375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="ca2e940366826ff4d44e7f9c5cef2360"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:09.734375Z"/>
+<entry
+   committed-rev="82"
+   name="MapleData.java"
+   text-time="2009-02-13T14:02:10.156250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5993bcd0e1f7480acd61e9c248fe1f9e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:09.750000Z"/>
+<entry
+   committed-rev="82"
+   name="MapleCanvas.java"
+   text-time="2009-02-13T14:02:10.218750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8e25855ebf6dc1df11ea0b225a68ca3f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:09.781250Z"/>
+<entry
+   committed-rev="82"
+   name="MapleDataEntry.java"
+   text-time="2009-02-13T14:02:10.265625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="e8c2bbe676527aada4e44c39f27d73f9"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:09.828125Z"/>
+<entry
+   committed-rev="82"
+   name="MapleDataFileEntry.java"
+   text-time="2009-02-13T14:02:10.296875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f69a84b857861da7dcb7543d4b394f0c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:09.859375Z"/>
+<entry
+   committed-rev="82"
+   name="MapleDataProviderFactory.java"
+   text-time="2009-02-13T14:02:10.328125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="96efe77dbbde8464daf8e42609ee7ad1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:09.890625Z"/>
+</wc-entries>

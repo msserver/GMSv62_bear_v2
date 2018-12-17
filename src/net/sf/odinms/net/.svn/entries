@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="ExternalCodeTableGetter.java"
+   text-time="2009-02-13T14:01:57.156250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a89fd0e8ffeba7fb99197ac8a3f3b7cc"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:39.890625Z"/>
+<entry
+   committed-rev="82"
+   name="StringValueHolder.java"
+   text-time="2009-02-13T14:01:57.203125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1daa870b6647c8720b68fe4b57f3e288"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:39.921875Z"/>
+<entry
+   name="mina"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="PacketProcessor.java"
+   text-time="2009-02-13T14:01:57.250000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="35093b674a019081f6e0dabbdf2a7a28"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.687500Z"/>
+<entry
+   name="world"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="AbstractMaplePacketHandler.java"
+   text-time="2009-02-13T14:01:57.296875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="ced11a1aae6700cb0ff429d0ad14ac88"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.718750Z"/>
+<entry
+   committed-rev="82"
+   name="ByteArrayMaplePacket.java"
+   text-time="2009-02-13T14:01:57.343750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0c052e04919d2d9374abb0e6b912de26"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.750000Z"/>
+<entry
+   committed-rev="82"
+   name="SendPacketOpcode.java"
+   text-time="2009-02-13T14:01:57.390625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="bf9960b8783bbebfd73c42b2e2888a05"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.781250Z"/>
+<entry
+   committed-rev="82"
+   name="WritableIntValueHolder.java"
+   text-time="2009-02-13T14:01:57.437500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1a2d686a5849a2aa2c4f2b4a3e5aac1d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.812500Z"/>
+<entry
+   committed-rev="82"
+   name="RecvPacketOpcode.java"
+   text-time="2009-02-13T14:01:57.484375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d798cdbeb3c8bc145de01a8404bfb5e9"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.843750Z"/>
+<entry
+   committed-rev="82"
+   name="MapleServerHandler.java"
+   text-time="2009-02-13T14:01:57.531250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="7ef41bbee2191514fb1b4b7f7fc4a35b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.875000Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePacketHandler.java"
+   text-time="2009-02-13T14:01:57.578125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f95ca8f3c7683183ffa49f76c420b7c9"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.921875Z"/>
+<entry
+   committed-rev="82"
+   name="IntValueHolder.java"
+   text-time="2009-02-13T14:01:57.625000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8f71e474ed4424295817917dbaea7a31"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.968750Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePacket.java"
+   text-time="2009-02-13T14:01:57.656250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1bb64b039c74ab4379ae77a309bd3999"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:43.984375Z"/>
+<entry
+   name="login"
+   kind="dir"/>
+<entry
+   name="channel"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="LongValueHolder.java"
+   text-time="2009-02-13T14:01:57.703125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b0d122e5e9f4e34af815094fffbaaf36"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:56.671875Z"/>
+<entry
+   name="handler"
+   kind="dir"/>
+</wc-entries>

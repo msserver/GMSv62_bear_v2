@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/database"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="DatabaseException.java"
+   text-time="2009-02-13T14:01:39.625000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8f086992689adcd92bc08e499ec19438"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:39.546875Z"/>
+<entry
+   committed-rev="82"
+   name="DatabaseConnection.java"
+   text-time="2009-02-13T14:01:39.671875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="81c4c7480f4ff23adabd380f44f350f7"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:39.578125Z"/>
+</wc-entries>

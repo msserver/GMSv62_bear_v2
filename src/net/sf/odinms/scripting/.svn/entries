@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/scripting"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   name="reactor"
+   kind="dir"/>
+<entry
+   name="npc"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="AbstractPlayerInteraction.java"
+   text-time="2009-02-13T14:01:38.859375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="e8b3128f4c19442029297a469e7a08d3"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:36.515625Z"/>
+<entry
+   name="event"
+   kind="dir"/>
+<entry
+   name="portal"
+   kind="dir"/>
+<entry
+   name="quest"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="AbstractScriptManager.java"
+   text-time="2009-02-13T14:01:38.921875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c9c6d83d48fba0ca3fbaffc87c3bb0eb"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:38.812500Z"/>
+</wc-entries>

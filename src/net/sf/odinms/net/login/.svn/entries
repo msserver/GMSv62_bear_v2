@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/login"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="LoginServer.java"
+   text-time="2009-02-13T14:01:56.406250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4bc40b0c2e0ed51d4578b49b9f61dc1d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:54.312500Z"/>
+<entry
+   committed-rev="82"
+   name="LoginServerMBean.java"
+   text-time="2009-02-13T14:01:56.453125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1692b687b06dc669de1fb6cdb0c21d1a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:54.343750Z"/>
+<entry
+   committed-rev="82"
+   name="LoginWorker.java"
+   text-time="2009-02-13T14:01:56.500000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4432483173772a04d7ff84f0c95bfef6"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:54.375000Z"/>
+<entry
+   committed-rev="82"
+   name="LoginWorldInterfaceImpl.java"
+   text-time="2009-02-13T14:01:56.531250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="28f3371655e3ff7c3098513c3716b511"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:54.406250Z"/>
+<entry
+   committed-rev="82"
+   name="RankingWorker.java"
+   text-time="2009-02-13T14:01:56.578125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d24a471cdafa23f4f8f0012398438f3b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:54.421875Z"/>
+<entry
+   name="remote"
+   kind="dir"/>
+<entry
+   name="handler"
+   kind="dir"/>
+</wc-entries>

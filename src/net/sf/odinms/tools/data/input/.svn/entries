@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/tools/data/input"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="ByteInputStream.java"
+   text-time="2009-02-13T14:01:33.281250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a0b571b2800f9c8f17d221b60eb95b28"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:32.437500Z"/>
+<entry
+   committed-rev="82"
+   name="LittleEndianAccessor.java"
+   text-time="2009-02-13T14:01:33.312500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5d77ad8ce90acae92d566ea870242a0c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:32.546875Z"/>
+<entry
+   committed-rev="82"
+   name="ByteArrayByteStream.java"
+   text-time="2009-02-13T14:01:33.375000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c1161aedbc9664bae4c82e364961b7b8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:32.625000Z"/>
+<entry
+   committed-rev="82"
+   name="RandomAccessByteStream.java"
+   text-time="2009-02-13T14:01:33.406250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a91f1a89411143dd1d61f74dc8054c5f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:32.718750Z"/>
+<entry
+   committed-rev="82"
+   name="SeekableInputStreamBytestream.java"
+   text-time="2009-02-13T14:01:33.453125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="efdce99cdea520dfc70c05a5c667c285"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:32.843750Z"/>
+<entry
+   committed-rev="82"
+   name="GenericSeekableLittleEndianAccessor.java"
+   text-time="2009-02-13T14:01:33.500000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="dca245f43801a35f8086ec973f74cbed"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:32.968750Z"/>
+<entry
+   committed-rev="82"
+   name="StreamUtil.java"
+   text-time="2009-02-13T14:01:33.562500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5af8f753ec2e24277b0096c81c03e571"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:33.125000Z"/>
+<entry
+   committed-rev="82"
+   name="InputStreamByteStream.java"
+   text-time="2009-02-13T14:01:33.609375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="e2e84e800a601ba238441d980b224dee"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:33.171875Z"/>
+<entry
+   committed-rev="82"
+   name="SeekableLittleEndianAccessor.java"
+   text-time="2009-02-13T14:01:33.656250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5c0e15b31d94d236cfc00ae9421a6355"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:33.187500Z"/>
+<entry
+   committed-rev="82"
+   name="GenericLittleEndianAccessor.java"
+   text-time="2009-02-13T14:01:33.703125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="970eeb13ec6143607da1d44c73f897b1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:33.234375Z"/>
+</wc-entries>

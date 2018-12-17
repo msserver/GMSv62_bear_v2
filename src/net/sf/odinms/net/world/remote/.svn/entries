@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/world/remote"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="WorldLocation.java"
+   text-time="2009-02-13T14:01:42.015625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3da89852183da336bf33f75b30ed10ca"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.781250Z"/>
+<entry
+   committed-rev="82"
+   name="WorldRegistry.java"
+   text-time="2009-02-13T14:01:42.078125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="27b3d88ee6fc0e183089df21778a0ddd"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.812500Z"/>
+<entry
+   committed-rev="82"
+   name="WorldChannelInterface.java"
+   text-time="2009-02-13T14:01:42.140625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a544539aed06cb959dc154c2d91f81cd"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.843750Z"/>
+<entry
+   committed-rev="82"
+   name="WorldLoginInterface.java"
+   text-time="2009-02-13T14:01:42.187500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="798e281279966d5e0a20e41f8dd1c901"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.875000Z"/>
+<entry
+   committed-rev="82"
+   name="CheaterData.java"
+   text-time="2009-02-13T14:01:42.250000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8e75def3ee80eb31bbfbdd6264b7a4ae"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.921875Z"/>
+<entry
+   committed-rev="82"
+   name="WorldChannelCommonOperations.java"
+   text-time="2009-02-13T14:01:42.312500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="467dd7187784fa0dec81b228f6f66dbd"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.968750Z"/>
+</wc-entries>

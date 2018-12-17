@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/client/messages"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="CommandProcessorMBean.java"
+   text-time="2009-02-13T14:02:13.218750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="39f58df67eb734942ec90f399949eb88"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.187500Z"/>
+<entry
+   committed-rev="82"
+   name="MessageCallback.java"
+   text-time="2009-02-13T14:02:13.281250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="17bfe1fcde192158dbaf1982044852b5"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.296875Z"/>
+<entry
+   committed-rev="82"
+   name="WhisperMapleClientMessageCallback.java"
+   text-time="2009-02-13T14:02:13.328125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="31f9a9258a8e131aa5627d2d6255e300"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.390625Z"/>
+<entry
+   committed-rev="82"
+   name="GMCommand.java"
+   text-time="2009-02-13T14:02:13.375000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="e99ef0b096b3e708cb2df14e0ec3a86b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.656250Z"/>
+<entry
+   committed-rev="82"
+   name="DonatorCommand.java"
+   text-time="2009-02-13T14:02:13.421875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="222677d01021ea6b63624d260fba7e77"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.687500Z"/>
+<entry
+   committed-rev="82"
+   name="AdminCommand.java"
+   text-time="2009-02-13T14:02:13.453125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2cd909eddbd813e6a12449309e4571f2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.765625Z"/>
+<entry
+   committed-rev="82"
+   name="ServernoticeMapleClientMessageCallback.java"
+   text-time="2009-02-13T14:02:13.515625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9bc24f9be732c76ea9f66d0a0ec533e3"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.843750Z"/>
+<entry
+   committed-rev="82"
+   name="StringMessageCallback.java"
+   text-time="2009-02-13T14:02:13.625000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="bef4231d7232d967c6c173c6b2278109"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.906250Z"/>
+<entry
+   committed-rev="82"
+   name="PlayerCommand.java"
+   text-time="2009-02-13T14:02:13.671875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d25a68dfa30c5aa371838b24432bad1b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:12.937500Z"/>
+<entry
+   committed-rev="82"
+   name="SuperCommand.java"
+   text-time="2009-02-13T14:02:13.718750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a7bdb8470a6cc667197ed524acd0b1fd"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:13.015625Z"/>
+<entry
+   committed-rev="82"
+   name="CommandProcessor.java"
+   text-time="2009-02-13T14:02:13.765625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d50b7c06909da543a904ebb9abd04709"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:13.078125Z"/>
+<entry
+   committed-rev="82"
+   name="InternCommand.java"
+   text-time="2009-02-13T14:02:13.828125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="87d9b2d6c6799596ddeb7725f74103ff"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:13.140625Z"/>
+</wc-entries>

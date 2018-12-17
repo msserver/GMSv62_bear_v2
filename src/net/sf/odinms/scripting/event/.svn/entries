@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/scripting/event"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="EventInstanceManager.java"
+   text-time="2009-02-13T14:01:37.375000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="16fe4368db54251c52a4d92890eb41f2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:37.250000Z"/>
+<entry
+   committed-rev="82"
+   name="EventScriptManager.java"
+   text-time="2009-02-13T14:01:37.734375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="dba1a1fae545822c0288d84a29b8f61c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:37.281250Z"/>
+<entry
+   committed-rev="82"
+   name="EventManager.java"
+   text-time="2009-02-13T14:01:37.812500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="15860778899ca9a6f94a8c36c3074d65"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:37.312500Z"/>
+</wc-entries>

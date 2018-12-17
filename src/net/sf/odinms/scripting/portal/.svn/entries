@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/scripting/portal"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="PortalScriptManager.java"
+   text-time="2009-02-13T14:01:38.093750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="79b5c10136f5dedfaf5a5d9aad534bd4"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:37.968750Z"/>
+<entry
+   committed-rev="82"
+   name="PortalScript.java"
+   text-time="2009-02-13T14:01:38.140625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5b72366ea86ba021f975e33a40c7d0da"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:37.984375Z"/>
+<entry
+   committed-rev="82"
+   name="PortalPlayerInteraction.java"
+   text-time="2009-02-13T14:01:38.187500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="86e9b32a006f6836cf4a118f513c03c1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:38.031250Z"/>
+</wc-entries>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/client"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="SkillMacro.java"
+   text-time="2009-02-13T14:02:15.593750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="21ad76e898382ca39de96e760236aed5"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:10.578125Z"/>
+<entry
+   committed-rev="82"
+   name="RunnableWithResult.java"
+   text-time="2009-02-13T14:02:15.625000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9a5ff270f290a11e8b721fd2ffcde2cb"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:10.609375Z"/>
+<entry
+   committed-rev="82"
+   name="MapleKeyBinding.java"
+   text-time="2009-02-13T14:02:15.671875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="11fbaaae784e7a71667b45cd9b2f598c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:10.625000Z"/>
+<entry
+   name="status"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="ExpTable.java"
+   text-time="2009-02-13T14:02:15.703125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="e82a80b0350001aab02e1c5e018b9c8b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.000000Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePet.java"
+   text-time="2009-02-13T14:02:15.750000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="ef4e8eda6fa9c88555068e38b853ac0d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.031250Z"/>
+<entry
+   committed-rev="82"
+   name="LoginCrypto.java"
+   text-time="2009-02-13T14:02:15.843750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="17ec090ae6f2ef13a76d37a047029d1c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.140625Z"/>
+<entry
+   committed-rev="82"
+   name="PetDataFactory.java"
+   text-time="2009-02-13T14:02:15.890625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="130601fa08d600e6acc0099173a2e705"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.203125Z"/>
+<entry
+   committed-rev="82"
+   name="MapleCharacter.java"
+   text-time="2009-02-13T14:02:15.937500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="35d9e13ede46913c1bdaa38977e6ae32"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.468750Z"/>
+<entry
+   committed-rev="82"
+   name="MapleInventory.java"
+   text-time="2009-02-13T14:02:15.968750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4e4c448e2794bd166750de78a2b235b6"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.578125Z"/>
+<entry
+   committed-rev="82"
+   name="InventoryException.java"
+   text-time="2009-02-13T14:02:16.015625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="79faa363e55ba0f0e5297826cd47a879"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.640625Z"/>
+<entry
+   committed-rev="82"
+   name="MapleRing.java"
+   text-time="2009-02-13T14:02:16.062500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="6c769c4e9b279fcce287a995cd4a980a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.687500Z"/>
+<entry
+   committed-rev="82"
+   name="Skill.java"
+   text-time="2009-02-13T14:02:16.109375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a6e834fd3973da97e8810a519ea298c3"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.718750Z"/>
+<entry
+   committed-rev="82"
+   name="MapleSkinColor.java"
+   text-time="2009-02-13T14:02:16.156250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a5b10aee7bac4a42c81e99870a26e7de"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.765625Z"/>
+<entry
+   committed-rev="82"
+   name="Equip.java"
+   text-time="2009-02-13T14:02:16.234375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5d14c06f6443a7fdb866e1c92e71f947"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.796875Z"/>
+<entry
+   committed-rev="82"
+   name="MapleQuestStatus.java"
+   text-time="2009-02-13T14:02:16.265625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="35559247d2793e18ed030f42e7b7c7ff"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.828125Z"/>
+<entry
+   committed-rev="82"
+   name="BuddylistEntry.java"
+   text-time="2009-02-13T14:02:16.328125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="6d22c51e27e7aca2226fbe93453f9b35"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:11.859375Z"/>
+<entry
+   committed-rev="82"
+   name="ISkill.java"
+   text-time="2009-02-13T14:02:16.359375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0b26ee385fac02adc329bec0f9ed8ea5"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.218750Z"/>
+<entry
+   name="messages"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="MapleStat.java"
+   text-time="2009-02-13T14:02:16.406250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0aac6619760ec22d46e801677554839c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.265625Z"/>
+<entry
+   committed-rev="82"
+   name="IEquip.java"
+   text-time="2009-02-13T14:02:16.484375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="79413a31ead1175140fb9a8edf62200d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.296875Z"/>
+<entry
+   committed-rev="82"
+   name="CharacterNameAndId.java"
+   text-time="2009-02-13T14:02:16.515625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="abd16c8fb1429e8a2fce64aa463fdae0"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.312500Z"/>
+<entry
+   committed-rev="82"
+   name="InventoryContainer.java"
+   text-time="2009-02-13T14:02:16.562500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0d3a63f7148ff0ea496fe5841f4cdd70"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.390625Z"/>
+<entry
+   committed-rev="82"
+   name="BuddyList.java"
+   text-time="2009-02-13T14:02:16.609375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f094eb96f1ab7e9e15bee6d6fa1b85b2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.421875Z"/>
+<entry
+   committed-rev="82"
+   name="SkillFactory.java"
+   text-time="2009-02-13T14:02:16.640625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="fef83b2898d656f5d467204638da33b2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.453125Z"/>
+<entry
+   committed-rev="82"
+   name="IItem.java"
+   text-time="2009-02-13T14:02:16.703125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0107f4007b3e5e98a7626cb06767c107"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.500000Z"/>
+<entry
+   committed-rev="82"
+   name="MapleCharacterUtil.java"
+   text-time="2009-02-13T14:02:16.734375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8636d2ce7cf7e10ba54577af668d48c9"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.531250Z"/>
+<entry
+   committed-rev="82"
+   name="MapleWeaponType.java"
+   text-time="2009-02-13T14:02:16.765625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3313f14af719b08b2cca04d7d241ec79"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.578125Z"/>
+<entry
+   committed-rev="82"
+   name="AutoRegister.java"
+   text-time="2009-02-13T14:02:16.812500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="bdc8333af86b28bda3971fcf58a0dd32"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.609375Z"/>
+<entry
+   committed-rev="82"
+   name="MapleInventoryType.java"
+   text-time="2009-02-13T14:02:16.843750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="22a07b6339787f93fe38151e39643f18"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.640625Z"/>
+<entry
+   name="anticheat"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="MapleMount.java"
+   text-time="2009-02-13T14:02:16.937500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2e249aa8df83618a9402fb7b446a768e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:15.109375Z"/>
+<entry
+   committed-rev="82"
+   name="PetCommand.java"
+   text-time="2009-02-13T14:02:16.984375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1f59cb4e54dd3d1b88f2e6ad1863f71d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:15.343750Z"/>
+<entry
+   committed-rev="82"
+   name="MapleJob.java"
+   text-time="2009-02-13T14:02:17.031250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="beab06febe45ebae2a3aafdaadcff636"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:15.390625Z"/>
+<entry
+   committed-rev="82"
+   name="MapleDisease.java"
+   text-time="2009-02-13T14:02:17.078125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8cbeab201e1804466445c29014dc54d1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:15.406250Z"/>
+<entry
+   committed-rev="82"
+   name="MapleClient.java"
+   text-time="2009-02-13T14:02:17.140625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3d6ded5e9521974eaa64db4e7d8b90df"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:15.437500Z"/>
+<entry
+   committed-rev="82"
+   name="MapleBuffStat.java"
+   text-time="2009-02-13T14:02:17.171875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4590f4028bc7ad44d90b5ff882154698"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:15.468750Z"/>
+<entry
+   committed-rev="82"
+   name="Item.java"
+   text-time="2009-02-13T14:02:17.234375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5c311f8bbf170af3df70606a50a6f77b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:15.500000Z"/>
+<entry
+   committed-rev="82"
+   name="LoginCryptoLegacy.java"
+   text-time="2009-02-13T14:02:17.296875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f594e6a926b4fc3fa662d532b6f89763"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:15.531250Z"/>
+</wc-entries>

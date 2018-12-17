@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/tools"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="BitTools.java"
+   text-time="2009-02-13T14:01:35.156250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0347545d8eaf31a06ccc4cd92e6588a1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:31.125000Z"/>
+<entry
+   committed-rev="82"
+   name="StringUtil.java"
+   text-time="2009-02-13T14:01:35.312500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b739f2577f4072576e23527c0849aba0"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:31.796875Z"/>
+<entry
+   committed-rev="82"
+   name="MapleCustomEncryption.java"
+   text-time="2009-02-13T14:01:35.265625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="16ea9c057c1b109c9b5284b1c5511c17"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:31.671875Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePacketCreator.java"
+   text-time="2009-02-13T14:01:35.421875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="ccd9776ad0b5f2080da09e24cf678b45"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:32.015625Z"/>
+<entry
+   committed-rev="82"
+   name="KoreanDateUtil.java"
+   text-time="2009-02-13T14:01:35.500000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b279fa832afbb630226248171858f5d2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:34.937500Z"/>
+<entry
+   committed-rev="82"
+   name="IPAddressTool.java"
+   text-time="2009-02-13T14:01:35.656250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="389909e42df50da7131bb66e9e0a5302"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:35.031250Z"/>
+<entry
+   committed-rev="82"
+   name="ArrayMap.java"
+   text-time="2009-02-13T14:01:35.609375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="215a8fc90293572a929cf4cb4620805c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:35.000000Z"/>
+<entry
+   committed-rev="82"
+   name="MapleAESOFB.java"
+   text-time="2009-02-13T14:01:35.750000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2d63563a0898bf908ac0cd8eb0ad3879"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:35.109375Z"/>
+<entry
+   name="performance"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="HexTool.java"
+   text-time="2009-02-13T14:01:35.203125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="66829fa87d0ff0b2b3c709e276c3348c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:31.593750Z"/>
+<entry
+   committed-rev="82"
+   name="MockIOSession.java"
+   text-time="2009-02-13T14:01:35.343750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4a419b1191a8eddbb7856967466de63e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:31.875000Z"/>
+<entry
+   committed-rev="82"
+   name="CollectionUtil.java"
+   text-time="2009-02-13T14:01:35.468750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1517ff20d1b8d61fef7676709ef0f532"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:32.125000Z"/>
+<entry
+   name="data"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="Pair.java"
+   text-time="2009-02-13T14:01:35.578125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1db364ae6efb65a0267132821052c2e8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:34.968750Z"/>
+<entry
+   committed-rev="82"
+   name="ClassFinder.java"
+   text-time="2009-02-13T14:01:35.687500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="929f7c4f7267bfb41b10b2615368f7b0"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:35.062500Z"/>
+</wc-entries>

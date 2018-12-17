@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/world/guild"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="MapleGuildCharacter.java"
+   text-time="2009-02-13T14:01:40.968750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="562cc7736aa91c8a6a5c6edcbbad8a95"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.812500Z"/>
+<entry
+   committed-rev="82"
+   name="MapleGuildSummary.java"
+   text-time="2009-02-13T14:01:41.015625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="bf17f8deb3d8b3f1dd0c534a98abcba3"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.843750Z"/>
+<entry
+   committed-rev="82"
+   name="MapleGuildResponse.java"
+   text-time="2009-02-13T14:01:41.078125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="147c7267ce0c49ce59c2a4928f8d5326"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.890625Z"/>
+<entry
+   committed-rev="82"
+   name="MapleGuild.java"
+   text-time="2009-02-13T14:01:41.125000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="6d68b4319b8c958c026431b92fe7125a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.921875Z"/>
+</wc-entries>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   name="tools"
+   kind="dir"/>
+<entry
+   name="scripting"
+   kind="dir"/>
+<entry
+   name="database"
+   kind="dir"/>
+<entry
+   name="net"
+   kind="dir"/>
+<entry
+   name="server"
+   kind="dir"/>
+<entry
+   name="provider"
+   kind="dir"/>
+<entry
+   name="client"
+   kind="dir"/>
+</wc-entries>

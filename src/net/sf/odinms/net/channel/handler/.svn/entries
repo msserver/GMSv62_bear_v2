@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/channel/handler"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="CharInfoRequestHandler.java"
+   text-time="2009-02-13T14:01:48.562500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1f95b01da68cf809f2168139ab57c7b4"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.421875Z"/>
+<entry
+   committed-rev="82"
+   name="NoteActionHandler.java"
+   text-time="2009-02-13T14:01:48.718750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="11f0e74a754405ff14dc7d308847a781"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.531250Z"/>
+<entry
+   committed-rev="82"
+   name="MTSHandler.java"
+   text-time="2009-02-13T14:01:48.687500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f0ecee8cecb275a7118a0036ae970ae8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.500000Z"/>
+<entry
+   committed-rev="82"
+   name="DoorHandler.java"
+   text-time="2009-02-13T14:01:48.640625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b0ac1ebf8220ffa04e9388d657377b78"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.468750Z"/>
+<entry
+   committed-rev="82"
+   name="UseChairHandler.java"
+   text-time="2009-02-13T14:01:48.593750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9f0d9d5fd65c65cc7bae54dadae250e4"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.453125Z"/>
+<entry
+   committed-rev="82"
+   name="ReactorHitHandler.java"
+   text-time="2009-02-13T14:01:48.984375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="89cd764d1e4315ed8296154b657aef91"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.562500Z"/>
+<entry
+   committed-rev="82"
+   name="EnterCashShopHandler.java"
+   text-time="2009-02-13T14:01:49.015625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="50fa30cdc1859be026713a45d299bc48"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.593750Z"/>
+<entry
+   committed-rev="82"
+   name="MapleTVHandler.java"
+   text-time="2009-02-13T14:01:49.078125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="92f113f2321fb9f6625cd76b9a11659a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.640625Z"/>
+<entry
+   committed-rev="82"
+   name="ItemPickupHandler.java"
+   text-time="2009-02-13T14:01:49.109375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b2f49fcff9d08c75b6fb8b03c50bbd85"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.656250Z"/>
+<entry
+   committed-rev="82"
+   name="BuddylistModifyHandler.java"
+   text-time="2009-02-13T14:01:49.156250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5ee1d51244e4c60d317567aefdc568ef"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.687500Z"/>
+<entry
+   committed-rev="82"
+   name="FaceExpressionHandler.java"
+   text-time="2009-02-13T14:01:49.234375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b19c5fdd5026e02f7ad9b715c5a27e52"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.703125Z"/>
+<entry
+   committed-rev="82"
+   name="PartyOperationHandler.java"
+   text-time="2009-02-13T14:01:49.515625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="15a7f8cf27c4425cee9f9aca5b810cfd"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.812500Z"/>
+<entry
+   committed-rev="82"
+   name="CloseChalkboardHandler.java"
+   text-time="2009-02-13T14:01:49.468750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f337e449f3cd2f178e18f4e1d2012bbf"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.765625Z"/>
+<entry
+   committed-rev="82"
+   name="UseCatchItem.java"
+   text-time="2009-02-13T14:01:49.421875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="62c766656c9b65accf918352043b3300"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.734375Z"/>
+<entry
+   committed-rev="82"
+   name="DistributeSPHandler.java"
+   text-time="2009-02-13T14:01:49.562500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="db992174ef8676b5f56342267472bb08"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.828125Z"/>
+<entry
+   committed-rev="82"
+   name="NPCAnimation.java"
+   text-time="2009-02-13T14:01:49.609375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9282f189bd6c836a5a803aa62a90ea76"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.859375Z"/>
+<entry
+   committed-rev="82"
+   name="GiveFameHandler.java"
+   text-time="2009-02-13T14:01:49.656250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="511a035d409959a70479dc3d9cc4f49a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.890625Z"/>
+<entry
+   committed-rev="82"
+   name="HealOvertimeHandler.java"
+   text-time="2009-02-13T14:01:49.703125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="935fed27fa586fa86323a802eaa20ee0"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.921875Z"/>
+<entry
+   committed-rev="82"
+   name="BBSOperationHandler.java"
+   text-time="2009-02-13T14:01:49.750000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0ef811149471fdcca98b416715e07350"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.937500Z"/>
+<entry
+   committed-rev="82"
+   name="MessengerHandler.java"
+   text-time="2009-02-13T14:01:49.828125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b12c1c99bc3d0b09457ffa5bfb5f44b8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:45.968750Z"/>
+<entry
+   committed-rev="82"
+   name="SkillBookHandler.java"
+   text-time="2009-02-13T14:01:49.890625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0c7806f3a5116f1c7d2eacb09bd51d5a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.000000Z"/>
+<entry
+   committed-rev="82"
+   name="TrockAddMapHandler.java"
+   text-time="2009-02-13T14:01:49.937500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="ea0b1e13d0a5c12bc8b2f4a00fbb5130"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.015625Z"/>
+<entry
+   committed-rev="82"
+   name="CancelChairHandler.java"
+   text-time="2009-02-13T14:01:50.000000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2c3abf2a453756b58b4b6f12795a5948"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.046875Z"/>
+<entry
+   committed-rev="82"
+   name="ScrollHandler.java"
+   text-time="2009-02-13T14:01:50.031250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9a57f3a738da76dc389e18cecf5d364e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.125000Z"/>
+<entry
+   committed-rev="82"
+   name="PartychatHandler.java"
+   text-time="2009-02-13T14:01:50.093750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="90adacaca38f35abc0d714b7f1f84d00"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.265625Z"/>
+<entry
+   committed-rev="82"
+   name="CancelDebuffHandler.java"
+   text-time="2009-02-13T14:01:50.125000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b20fbee639023b81bb0fa337e49fa34f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.437500Z"/>
+<entry
+   committed-rev="82"
+   name="EnterMTSHandler.java"
+   text-time="2009-02-13T14:01:50.218750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2f1aab04b149a320aff156e13c5c0d5f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.468750Z"/>
+<entry
+   committed-rev="82"
+   name="SpawnPetHandler.java"
+   text-time="2009-02-13T14:01:50.265625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="79cd1a729888c4a40be2b1378a32a90c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.500000Z"/>
+<entry
+   committed-rev="82"
+   name="PetAutoPotHandler.java"
+   text-time="2009-02-13T14:01:50.312500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="70558b1bcbadb972606888af4d92ec7b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.515625Z"/>
+<entry
+   committed-rev="82"
+   name="BuyCSItemHandler.java"
+   text-time="2009-02-13T14:01:50.343750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="351b46f30b99fd79f94f8a121d688fd8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.562500Z"/>
+<entry
+   committed-rev="82"
+   name="DueyActionHandler.java"
+   text-time="2009-02-13T14:01:50.390625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="62dc5284c63d4f8b1700b708e84c166c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.593750Z"/>
+<entry
+   committed-rev="82"
+   name="ItemSortHandler.java"
+   text-time="2009-02-13T14:01:50.453125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3ea5c545e2ec5e18e265ba0628f166c0"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.625000Z"/>
+<entry
+   committed-rev="82"
+   name="UseItemHandler.java"
+   text-time="2009-02-13T14:01:50.500000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="25f2444f56447417d9b29d55e1ebb178"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.656250Z"/>
+<entry
+   committed-rev="82"
+   name="DamageSummonHandler.java"
+   text-time="2009-02-13T14:01:50.593750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8aadeecb7551249ba7e6c29596aa7d98"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.718750Z"/>
+<entry
+   committed-rev="82"
+   name="SummonDamageHandler.java"
+   text-time="2009-02-13T14:01:50.531250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="10540a5159c104c532bf575fd971fdb6"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.687500Z"/>
+<entry
+   committed-rev="82"
+   name="SpouseChatHandler.java"
+   text-time="2009-02-13T14:01:50.640625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="32207a8835f78fa6b977dcc8cfca0fe8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.750000Z"/>
+<entry
+   committed-rev="82"
+   name="MovePetHandler.java"
+   text-time="2009-02-13T14:01:50.671875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c6824ff517c22a9000ca2aa27c1574ba"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.765625Z"/>
+<entry
+   committed-rev="82"
+   name="CancelItemEffectHandler.java"
+   text-time="2009-02-13T14:01:50.750000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8ec9589f9f2f5cf16cc063a0dbb0e0ca"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.843750Z"/>
+<entry
+   committed-rev="82"
+   name="WhisperHandler.java"
+   text-time="2009-02-13T14:01:50.703125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1b081fff46a251d472baeae660c95ece"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.796875Z"/>
+<entry
+   committed-rev="82"
+   name="MovePlayerHandler.java"
+   text-time="2009-02-13T14:01:50.781250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="cd695c9ae8e6037d5c102ad3435afa9d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.875000Z"/>
+<entry
+   committed-rev="82"
+   name="PetCommandHandler.java"
+   text-time="2009-02-13T14:01:50.875000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="408caa49b2b51eecfce17a7ed8fc2030"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.937500Z"/>
+<entry
+   committed-rev="82"
+   name="MonsterBombHandler.java"
+   text-time="2009-02-13T14:01:50.828125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="deb6b3e61ebb15e30f9339350cd6888e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.906250Z"/>
+<entry
+   committed-rev="82"
+   name="AutoAggroHandler.java"
+   text-time="2009-02-13T14:01:50.953125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="da95c85a780b0a54838f28c2ded70db4"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.000000Z"/>
+<entry
+   committed-rev="82"
+   name="AbstractDealDamageHandler.java"
+   text-time="2009-02-13T14:01:50.906250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="27320556d082b095842cbcd2657f3eea"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:46.984375Z"/>
+<entry
+   committed-rev="82"
+   name="SkillEffectHandler.java"
+   text-time="2009-02-13T14:01:51.000000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="14d859995d46a1d73d6fd8a1882fdcbd"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.031250Z"/>
+<entry
+   committed-rev="82"
+   name="RingActionHandler.java"
+   text-time="2009-02-13T14:01:51.031250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4693c0a0701668c47895a3f79e842939"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.078125Z"/>
+<entry
+   committed-rev="82"
+   name="CouponCodeHandler.java"
+   text-time="2009-02-13T14:01:51.078125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2f3813081b6c14dda85d0e0b194e66df"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.109375Z"/>
+<entry
+   committed-rev="82"
+   name="DistributeAPHandler.java"
+   text-time="2009-02-13T14:01:51.125000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="bc23c4008ecfa6936e04320051703aac"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.140625Z"/>
+<entry
+   committed-rev="82"
+   name="StorageHandler.java"
+   text-time="2009-02-13T14:01:51.156250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f0ff2ca9328ed4c06618b29387837d29"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.171875Z"/>
+<entry
+   committed-rev="82"
+   name="PlayerLoggedinHandler.java"
+   text-time="2009-02-13T14:01:51.328125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="6183dfd979ba10d437cfdcc8e7e75ded"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.281250Z"/>
+<entry
+   committed-rev="82"
+   name="MoveLifeHandler.java"
+   text-time="2009-02-13T14:01:51.468750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="89f1f9fd5fea9d4e40844868104fe3f8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.328125Z"/>
+<entry
+   committed-rev="82"
+   name="AbstractMovementPacketHandler.java"
+   text-time="2009-02-13T14:01:51.406250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1a540a405d53049f8567a16eea136d26"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.312500Z"/>
+<entry
+   committed-rev="82"
+   name="SpecialMoveHandler.java"
+   text-time="2009-02-13T14:01:51.625000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3166a3644ccc8df3272abf39225cb5f2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.359375Z"/>
+<entry
+   committed-rev="82"
+   name="TouchingCashShopHandler.java"
+   text-time="2009-02-13T14:01:51.671875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8cc0059df148f7a354bbb34885a46186"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.390625Z"/>
+<entry
+   committed-rev="82"
+   name="NPCShopHandler.java"
+   text-time="2009-02-13T14:01:51.718750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="52932c743884f88f3cf50f45767501c8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.421875Z"/>
+<entry
+   committed-rev="82"
+   name="GeneralchatHandler.java"
+   text-time="2009-02-13T14:01:51.750000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="85daa21d6440d4a7291d79e16854a3c4"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.453125Z"/>
+<entry
+   committed-rev="82"
+   name="ChangeChannelHandler.java"
+   text-time="2009-02-13T14:01:51.812500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c15e34c674269b7f0f24a1e8f3623113"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.484375Z"/>
+<entry
+   committed-rev="82"
+   name="CloseRangeDamageHandler.java"
+   text-time="2009-02-13T14:01:51.859375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f1c59d886bd537b518a4744c74d57acc"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.515625Z"/>
+<entry
+   committed-rev="82"
+   name="ItemMoveHandler.java"
+   text-time="2009-02-13T14:01:51.937500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="43e589969d1c4674e09a38a71f4e8539"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.578125Z"/>
+<entry
+   committed-rev="82"
+   name="GuildOperationHandler.java"
+   text-time="2009-02-13T14:01:51.890625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="40c2f73eea52bc207fc113d55c42b9a8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.546875Z"/>
+<entry
+   committed-rev="82"
+   name="PetLootHandler.java"
+   text-time="2009-02-13T14:01:52.000000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="70d0a83d56d5e23e87884ff5f35fa8b8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.609375Z"/>
+<entry
+   committed-rev="82"
+   name="UseMountFoodHandler.java"
+   text-time="2009-02-13T14:01:52.078125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4839736a0d6c04f7a6aa1865ed58a29a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.640625Z"/>
+<entry
+   committed-rev="82"
+   name="PetChatHandler.java"
+   text-time="2009-02-13T14:01:52.140625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="43a7a297ada69aaca3de0068b2ef7c1a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.687500Z"/>
+<entry
+   committed-rev="82"
+   name="RangedAttackHandler.java"
+   text-time="2009-02-13T14:01:52.343750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5e7af7a5444e3659206c9e864db1497c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.718750Z"/>
+<entry
+   committed-rev="82"
+   name="MesoDropHandler.java"
+   text-time="2009-02-13T14:01:52.406250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="fff4be65348fc61185e86909aeba107e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.750000Z"/>
+<entry
+   committed-rev="82"
+   name="CancelBuffHandler.java"
+   text-time="2009-02-13T14:01:52.437500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="18f5e27f7a20a62e548ecd96de60ef5a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.781250Z"/>
+<entry
+   committed-rev="82"
+   name="DenyPartyRequestHandler.java"
+   text-time="2009-02-13T14:01:52.484375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1dedd2120b5568e2b6667f709319e278"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.812500Z"/>
+<entry
+   committed-rev="82"
+   name="DenyGuildRequestHandler.java"
+   text-time="2009-02-13T14:01:52.531250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="156cdc49cf61df802a57f41ce558840d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.843750Z"/>
+<entry
+   committed-rev="82"
+   name="SkillMacroHandler.java"
+   text-time="2009-02-13T14:01:52.562500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="6d44af37ffddcaf71fb46de4d592f4e1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.875000Z"/>
+<entry
+   committed-rev="82"
+   name="MoveSummonHandler.java"
+   text-time="2009-02-13T14:01:52.609375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b2b7fd8503605dfcbcbeaa2501bdd66b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.906250Z"/>
+<entry
+   committed-rev="82"
+   name="MonsterCarnivalHandler.java"
+   text-time="2009-02-13T14:01:52.671875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="be584f075ecdf7e30397f6b9dcd2a659"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.953125Z"/>
+<entry
+   committed-rev="82"
+   name="UseSummonBag.java"
+   text-time="2009-02-13T14:01:52.734375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f94046e6e631441d7b7d89e2e8bc532c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:47.984375Z"/>
+<entry
+   committed-rev="82"
+   name="UseCashItemHandler.java"
+   text-time="2009-02-13T14:01:52.781250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f9383cc9b6d775d5f41727801d3c6254"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.015625Z"/>
+<entry
+   committed-rev="82"
+   name="UseCatchItemHandler.java"
+   text-time="2009-02-13T14:01:52.843750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="19cb7b3a121e3e838131ff93073025fd"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.062500Z"/>
+<entry
+   committed-rev="82"
+   name="NPCMoreTalkHandler.java"
+   text-time="2009-02-13T14:01:52.890625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1c2a4f50f1e2e4bb17673c5677579028"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.093750Z"/>
+<entry
+   committed-rev="82"
+   name="MagicDamageHandler.java"
+   text-time="2009-02-13T14:01:52.921875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="37bcc3e1fa8fed5dbf4e62d18e54420a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.109375Z"/>
+<entry
+   committed-rev="82"
+   name="ChangeMapHandler.java"
+   text-time="2009-02-13T14:01:52.953125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f25519707b1a0cf8e2f7427b14ad47cb"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.140625Z"/>
+<entry
+   committed-rev="82"
+   name="TakeDamageHandler.java"
+   text-time="2009-02-13T14:01:53.000000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a5eff01782c1fe84283b04b572eb362d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.171875Z"/>
+<entry
+   committed-rev="82"
+   name="ChangeMapSpecialHandler.java"
+   text-time="2009-02-13T14:01:53.031250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0c32d01d2a371f6943b0604d041131cf"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.250000Z"/>
+<entry
+   committed-rev="82"
+   name="UseItemEffectHandler.java"
+   text-time="2009-02-13T14:01:53.078125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="82578b5796a9aa4cefcc6610d59562e8"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.281250Z"/>
+<entry
+   committed-rev="82"
+   name="PlayerInteractionHandler.java"
+   text-time="2009-02-13T14:01:53.125000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="ea61a2ce22da6363eba4948a4f53fd2c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.312500Z"/>
+<entry
+   committed-rev="82"
+   name="NPCTalkHandler.java"
+   text-time="2009-02-13T14:01:53.171875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="cc0461bf6cd364150a9785b66a96a877"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.343750Z"/>
+<entry
+   committed-rev="82"
+   name="KeymapChangeHandler.java"
+   text-time="2009-02-13T14:01:53.234375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="bf4e3b80601630d2fe9cf3547b1f1b88"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.390625Z"/>
+<entry
+   committed-rev="82"
+   name="InnerPortalHandler.java"
+   text-time="2009-02-13T14:01:53.265625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="662ec7e7cb7c1a414d7cf26d8593a4bc"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.406250Z"/>
+<entry
+   committed-rev="82"
+   name="QuestActionHandler.java"
+   text-time="2009-02-13T14:01:53.312500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1af0a9fe2ccba0c5250bf5adab9f3b70"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.437500Z"/>
+<entry
+   committed-rev="82"
+   name="PlayerUpdateHandler.java"
+   text-time="2009-02-13T14:01:53.359375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2c15065fb4a05d580986c97478a7b65f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.468750Z"/>
+<entry
+   committed-rev="82"
+   name="PetFoodHandler.java"
+   text-time="2009-02-13T14:01:53.437500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d6335fe4b52500c22584cf2605e6b476"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:48.500000Z"/>
+</wc-entries>

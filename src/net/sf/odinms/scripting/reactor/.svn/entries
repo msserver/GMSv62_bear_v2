@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/scripting/reactor"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="ReactorScriptManager.java"
+   text-time="2009-02-13T14:01:36.234375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="6053e89ff9dc5d2ffaa176838f667f0b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:36.015625Z"/>
+<entry
+   committed-rev="82"
+   name="ReactorScript.java"
+   text-time="2009-02-13T14:01:36.296875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f100d1fa01ae6f75df07df73d5749061"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:36.062500Z"/>
+<entry
+   committed-rev="82"
+   name="ReactorActionManager.java"
+   text-time="2009-02-13T14:01:36.375000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="7e27010999c9b7c6deef4f10557b6b12"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:36.109375Z"/>
+</wc-entries>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/channel/remote"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="ChannelWorldInterface.java"
+   text-time="2009-02-13T14:01:44.921875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8ea401b68625e0bcb94004a308d20645"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:44.843750Z"/>
+</wc-entries>

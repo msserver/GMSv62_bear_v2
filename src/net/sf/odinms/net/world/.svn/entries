@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/world"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="WorldRegistryImpl.java"
+   text-time="2009-02-13T14:01:42.609375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4feb70f497bd04159a18c9772a5d7d9e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.578125Z"/>
+<entry
+   committed-rev="82"
+   name="MapleMessenger.java"
+   text-time="2009-02-13T14:01:42.875000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c5ccdd430de3c73d68221cc6d1a859aa"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.453125Z"/>
+<entry
+   name="remote"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="WorldServer.java"
+   text-time="2009-02-13T14:01:43.562500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="33fd3cbff44016d793bbd58a2eb029a1"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:42.515625Z"/>
+<entry
+   committed-rev="82"
+   name="MapleParty.java"
+   text-time="2009-02-13T14:01:43.484375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="897ec1c177a6a0e391fa6355d24cf512"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:42.484375Z"/>
+<entry
+   committed-rev="82"
+   name="CharacterIdChannelPair.java"
+   text-time="2009-02-13T14:01:43.437500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5a3884d9ca869c584f9d225c81f1b6b0"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:42.453125Z"/>
+<entry
+   committed-rev="82"
+   name="PartyOperation.java"
+   text-time="2009-02-13T14:01:42.578125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0447fdb579dc18ad2ca7aceda823f079"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.546875Z"/>
+<entry
+   committed-rev="82"
+   name="WorldLoginInterfaceImpl.java"
+   text-time="2009-02-13T14:01:42.687500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b4a0ae8ad55b6030c05a46b639968f4d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.640625Z"/>
+<entry
+   committed-rev="82"
+   name="WorldChannelInterfaceImpl.java"
+   text-time="2009-02-13T14:01:42.656250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="7f04d71db606eed13de6357873a1e943"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.625000Z"/>
+<entry
+   committed-rev="82"
+   name="PlayerBuffStorage.java"
+   text-time="2009-02-13T14:01:42.796875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8e068c424e201f7bb14c9a84474f67fc"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.703125Z"/>
+<entry
+   committed-rev="82"
+   name="MapleMessengerCharacter.java"
+   text-time="2009-02-13T14:01:42.734375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="29f32730b2f3a5e8ead069028ebd957f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:40.671875Z"/>
+<entry
+   name="guild"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="PlayerBuffValueHolder.java"
+   text-time="2009-02-13T14:01:42.921875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3c7efe18639f04de177024cacbaf3132"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.468750Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePartyCharacter.java"
+   text-time="2009-02-13T14:01:43.187500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d0a6094947552b39d84e6835e2b3accc"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:41.531250Z"/>
+<entry
+   committed-rev="82"
+   name="PlayerCoolDownValueHolder.java"
+   text-time="2009-02-13T14:01:43.375000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="a3171ad9d5642be2516a85f19f5ba045"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:42.406250Z"/>
+</wc-entries>

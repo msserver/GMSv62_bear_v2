@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/client/anticheat"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="CheatTracker.java"
+   text-time="2009-02-13T14:02:14.890625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="944a1f3bc14e4117a48928e7e05cd2f5"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.750000Z"/>
+<entry
+   committed-rev="82"
+   name="CheatingOffense.java"
+   text-time="2009-02-13T14:02:14.921875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="e7d053736e1fd260dbbfec7aee147c36"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.781250Z"/>
+<entry
+   committed-rev="82"
+   name="CheatingOffensePersister.java"
+   text-time="2009-02-13T14:02:14.968750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9f0e6f189826f97829a1e9f2693f4262"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.812500Z"/>
+<entry
+   committed-rev="82"
+   name="CheatingOffenseEntry.java"
+   text-time="2009-02-13T14:02:15.000000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f47179ad67464da0de3d55966ca197b2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:14.843750Z"/>
+</wc-entries>

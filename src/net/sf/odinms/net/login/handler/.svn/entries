@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/login/handler"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="CreateCharHandler.java"
+   text-time="2009-02-13T14:01:55.500000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0d95632be34424586271b4063da82404"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:54.906250Z"/>
+<entry
+   committed-rev="82"
+   name="RelogRequestHandler.java"
+   text-time="2009-02-13T14:01:55.578125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c1718daf8dc2dbb61fb51c15aabf4efc"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:54.937500Z"/>
+<entry
+   committed-rev="82"
+   name="CharlistRequestHandler.java"
+   text-time="2009-02-13T14:01:55.625000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="2246dcfebe90d7512c52d7e8a3ed0f05"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.046875Z"/>
+<entry
+   committed-rev="82"
+   name="ServerStatusRequestHandler.java"
+   text-time="2009-02-13T14:01:55.687500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="dd6da9b32b0c29e04a5a15b5caea310f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.109375Z"/>
+<entry
+   committed-rev="82"
+   name="PickCharHandler.java"
+   text-time="2009-02-13T14:01:55.765625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="279c6ac665332f98e3da2a383b5ad1d2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.140625Z"/>
+<entry
+   committed-rev="82"
+   name="CharSelectedHandler.java"
+   text-time="2009-02-13T14:01:55.843750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="8b8750a41e7aec7f3bdabcd7718dd25d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.187500Z"/>
+<entry
+   committed-rev="82"
+   name="ViewCharHandler.java"
+   text-time="2009-02-13T14:01:55.906250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="e140df771a6c45d1963973e2a7ab71f6"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.234375Z"/>
+<entry
+   committed-rev="82"
+   name="AfterLoginHandler.java"
+   text-time="2009-02-13T14:01:55.968750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b04d026036c927d66b9834cc4df89320"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.265625Z"/>
+<entry
+   committed-rev="82"
+   name="LoginPasswordHandler.java"
+   text-time="2009-02-13T14:01:56.015625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="79160e68130b4b581dc1c6d786deba6a"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.312500Z"/>
+<entry
+   committed-rev="82"
+   name="ServerlistRequestHandler.java"
+   text-time="2009-02-13T14:01:56.062500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="082bb65447bcaa46d8076113999c2732"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.343750Z"/>
+<entry
+   committed-rev="82"
+   name="CheckCharNameHandler.java"
+   text-time="2009-02-13T14:01:56.109375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="71f3ceef9b9b91e5e5751625bb4d1ee2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.390625Z"/>
+<entry
+   committed-rev="82"
+   name="DeleteCharHandler.java"
+   text-time="2009-02-13T14:01:56.250000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="f65086fb7729f998d4a895e80b407c78"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:55.421875Z"/>
+</wc-entries>

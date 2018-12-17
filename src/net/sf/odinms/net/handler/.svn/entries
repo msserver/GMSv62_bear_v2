@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/net/handler"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="KeepAliveHandler.java"
+   text-time="2009-02-13T14:01:56.968750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="91356d8d73a9edfce1d776b6b2ad9528"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:56.875000Z"/>
+<entry
+   committed-rev="82"
+   name="LoginRequiringNoOpHandler.java"
+   text-time="2009-02-13T14:01:57.000000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="52be040f0a5d03984c037408f60e828e"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:56.890625Z"/>
+<entry
+   committed-rev="82"
+   name="NoOpHandler.java"
+   text-time="2009-02-13T14:01:57.046875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d36d9fcc132d06b39c7773702467e30d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:56.921875Z"/>
+</wc-entries>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-02-06T07:17:04.411725Z"
+   url="http://my-svn.assembla.com/svn/ThePack/ThePack/src/net/sf/odinms/server"
+   last-author="sinems"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="82"/>
+<entry
+   name="life"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="ShutdownServer.java"
+   text-time="2009-02-13T14:02:05.328125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4609acb090047931ae764d296ba9be02"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.203125Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePlayerShop.java"
+   text-time="2009-02-13T14:02:05.437500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="cb8d1ca52adb491fe01f220a8c412bf2"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.265625Z"/>
+<entry
+   committed-rev="82"
+   name="MapleMiniGame.java"
+   text-time="2009-02-13T14:02:05.390625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="7b2c6efd6d711b185826dece9b66e5ea"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.234375Z"/>
+<entry
+   committed-rev="82"
+   name="MapleDueyActions.java"
+   text-time="2009-02-13T14:02:05.484375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="4f57d4a73e402ec4e5a5d04125c85cab"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.296875Z"/>
+<entry
+   committed-rev="82"
+   name="MapleShopItem.java"
+   text-time="2009-02-13T14:02:05.906250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="5f4d97a88a3e7cf263823c844b83ca19"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.343750Z"/>
+<entry
+   committed-rev="82"
+   name="MapleStatEffect.java"
+   text-time="2009-02-13T14:02:05.531250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="6899cfc0ebc640a9e7ca1a43329f9d47"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.328125Z"/>
+<entry
+   committed-rev="82"
+   name="CashItemInfo.java"
+   text-time="2009-02-13T14:02:06.187500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="fc29468da2cbb20905625f1871a23239"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:01:59.390625Z"/>
+<entry
+   name="movement"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="TimerManager.java"
+   text-time="2009-02-13T14:02:06.500000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="c55bdee209d9c286260c5ecffbe2b142"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:00.437500Z"/>
+<entry
+   committed-rev="82"
+   name="MapleTrade.java"
+   text-time="2009-02-13T14:02:06.593750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="9d44802d8e4cff192b0abbf856a7e783"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:00.484375Z"/>
+<entry
+   committed-rev="82"
+   name="TimerManagerMBean.java"
+   text-time="2009-02-13T14:02:06.562500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="1d53869aac5653ae19238ae85d780836"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:00.468750Z"/>
+<entry
+   name="maps"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="MaplePortal.java"
+   text-time="2009-02-13T14:02:06.625000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d8b57a3f083c425991e060b6fcd4eaa9"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.265625Z"/>
+<entry
+   committed-rev="82"
+   name="MapleShopFactory.java"
+   text-time="2009-02-13T14:02:06.671875Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0f0dae4e7d7a797c242d723c6d3fbd33"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:03.296875Z"/>
+<entry
+   name="quest"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="MapleStorage.java"
+   text-time="2009-02-13T14:02:06.734375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="af448b8830f5544fe80d0d39a31c809c"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:04.656250Z"/>
+<entry
+   committed-rev="82"
+   name="MaplePlayerShopItem.java"
+   text-time="2009-02-13T14:02:06.781250Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="93409a4d99f7061ee406146af070df35"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:04.687500Z"/>
+<entry
+   committed-rev="82"
+   name="AutobanManager.java"
+   text-time="2009-02-13T14:02:06.843750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="6bb176517e63d360788fae23d1aaba65"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:04.734375Z"/>
+<entry
+   committed-rev="82"
+   name="CashItemFactory.java"
+   text-time="2009-02-13T14:02:06.890625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="229e0c4e0509e3107a2988d4e6b10e92"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:04.765625Z"/>
+<entry
+   name="fourthjobquests"
+   kind="dir"/>
+<entry
+   committed-rev="82"
+   name="MapleShop.java"
+   text-time="2009-02-13T14:02:06.953125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="d859828cb4356666d41666e703e1bedb"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:04.984375Z"/>
+<entry
+   committed-rev="82"
+   name="MapleInventoryManipulator.java"
+   text-time="2009-02-13T14:02:07.000000Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="441146f2814da43d238efe704843342f"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:05.000000Z"/>
+<entry
+   committed-rev="82"
+   name="PortalFactory.java"
+   text-time="2009-02-13T14:02:07.062500Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="dcf6d3674c84fba8f0ceb87c2ab3b389"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:05.078125Z"/>
+<entry
+   committed-rev="82"
+   name="MapleSquad.java"
+   text-time="2009-02-13T14:02:07.093750Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="3b0500764641cbf686c4378d918a4d25"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:05.109375Z"/>
+<entry
+   committed-rev="82"
+   name="MapleSquadType.java"
+   text-time="2009-02-13T14:02:07.140625Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="0621080dea419290e02ed1fabddf8e30"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:05.156250Z"/>
+<entry
+   committed-rev="82"
+   name="MapleItemInformationProvider.java"
+   text-time="2009-02-13T14:02:07.203125Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="b992953e88496a507c1a276f102a8a9d"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:05.218750Z"/>
+<entry
+   committed-rev="82"
+   name="MTSItemInfo.java"
+   text-time="2009-02-13T14:02:07.234375Z"
+   committed-date="2009-02-06T07:17:04.411725Z"
+   checksum="876c2fd0f33f16921795e25a39763e9b"
+   last-author="sinems"
+   kind="file"
+   prop-time="2009-02-13T14:02:05.250000Z"/>
+</wc-entries>
